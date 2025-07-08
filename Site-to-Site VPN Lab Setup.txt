@@ -153,6 +153,15 @@ route add default gw 20.20.20.12
 ping 20.20.20.12
 
 
+______
+###### ADD USER ACCOUNT ON LINUX TINYVM
+
+@BLDG-PH, BLDG-JP
+adduser nickname-m
+C1sc0123
+C1sc0123
+
+
 _____________________
 ********************* ACCESS VPN WEB GUI
 
